@@ -16,13 +16,10 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 	<!--[if lt IE 9]>
 		<script src="<?php echo get_template_directory_uri(); ?>/assets/js/html5.min.js"></script>
 	<![endif]-->
 	<?php wp_head(); ?>
 </head>
 <body>
-	<nav>
-		<h1>NUMA Cowork</h1>
-		<a class="cta" href="https://numa2.typeform.com/to/rCYstA">Join</a>
-	</nav>
