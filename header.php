@@ -22,6 +22,7 @@
 	<?php wp_head(); ?>
 </head>
 <body>
-	<header class="header">
-		<!-- Vous pouvez mettre ici toutes les infos que vous voulez retrouver dans le header de toutes vos pages  -->
-	</header>
+	<nav>
+		<h1>NUMA Cowork</h1>
+		<a class="cta" href="https://numa2.typeform.com/to/rCYstA">Join</a>
+	</nav>
